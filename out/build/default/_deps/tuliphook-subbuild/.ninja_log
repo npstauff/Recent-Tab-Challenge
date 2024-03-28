@@ -1,0 +1,37 @@
+# ninja log v5
+2	65	7322398251848563	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-mkdir	1e38ce0304243110
+2	65	7322398251848563	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-mkdir	1e38ce0304243110
+373	463	7333518622316621	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-build	ef0f311f0e87438d
+203	292	7333518620641006	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-patch	28799ed3d4f8d1b2
+65	1478	7322398265994118	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-download	f32b2841e0b54d9a
+8	202	0	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-update	2e855d48eff6def6
+8	202	0	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-update	2e855d48eff6def6
+65	1478	7322398265994118	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-download	f32b2841e0b54d9a
+203	292	7333518620641006	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-patch	28799ed3d4f8d1b2
+292	373	7333518621432118	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-configure	7a7dbf82980e84ea
+292	373	7333518621432118	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-configure	7a7dbf82980e84ea
+373	463	7333518622316621	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-build	ef0f311f0e87438d
+463	550	7333518623214736	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-install	7f8ec410ba9b04ec
+463	550	7333518623214736	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-install	7f8ec410ba9b04ec
+550	632	7333518624044998	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-test	2a12b981e7ab71ed
+550	632	7333518624044998	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-test	2a12b981e7ab71ed
+632	738	7333518625069523	CMakeFiles/tuliphook-populate-complete	624b3f27a721a5d5
+632	738	7333518625069523	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-done	624b3f27a721a5d5
+632	738	7333518625069523	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/CMakeFiles/tuliphook-populate-complete	624b3f27a721a5d5
+632	738	7333518625069523	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-done	624b3f27a721a5d5
+8	163	0	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-update	2e855d48eff6def6
+8	163	0	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-update	2e855d48eff6def6
+164	225	7333523635073760	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-patch	28799ed3d4f8d1b2
+164	225	7333523635073760	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-patch	28799ed3d4f8d1b2
+226	298	7333523635772071	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-configure	7a7dbf82980e84ea
+226	298	7333523635772071	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-configure	7a7dbf82980e84ea
+298	364	7333523636432390	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-build	ef0f311f0e87438d
+298	364	7333523636432390	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-build	ef0f311f0e87438d
+365	428	7333523637081723	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-install	7f8ec410ba9b04ec
+365	428	7333523637081723	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-install	7f8ec410ba9b04ec
+428	490	7333523637679891	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-test	2a12b981e7ab71ed
+428	490	7333523637679891	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-test	2a12b981e7ab71ed
+490	578	7333523638586430	CMakeFiles/tuliphook-populate-complete	624b3f27a721a5d5
+490	578	7333523638586430	tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-done	624b3f27a721a5d5
+490	578	7333523638586430	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/CMakeFiles/tuliphook-populate-complete	624b3f27a721a5d5
+490	578	7333523638586430	D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-done	624b3f27a721a5d5

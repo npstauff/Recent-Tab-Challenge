@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "npstauff.my_mod",
+	"name": "My Mod",
+	"developer": "npstauff",
+	"description": "learning how to make mod"
+}

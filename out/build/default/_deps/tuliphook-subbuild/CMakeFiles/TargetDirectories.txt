@@ -1,0 +1,3 @@
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/CMakeFiles/tuliphook-populate.dir
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/CMakeFiles/edit_cache.dir
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/CMakeFiles/rebuild_cache.dir

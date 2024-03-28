@@ -1,0 +1,14 @@
+# Target labels
+ filesystem-populate
+# Source files and their labels
+D:/Geode Mods/Learn/My Mod/out/build/x64-Debug/_deps/filesystem-subbuild/CMakeFiles/filesystem-populate
+D:/Geode Mods/Learn/My Mod/out/build/x64-Debug/_deps/filesystem-subbuild/CMakeFiles/filesystem-populate.rule
+D:/Geode Mods/Learn/My Mod/out/build/x64-Debug/_deps/filesystem-subbuild/CMakeFiles/filesystem-populate-complete.rule
+D:/Geode Mods/Learn/My Mod/out/build/x64-Debug/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-build.rule
+D:/Geode Mods/Learn/My Mod/out/build/x64-Debug/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-configure.rule
+D:/Geode Mods/Learn/My Mod/out/build/x64-Debug/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-download.rule
+D:/Geode Mods/Learn/My Mod/out/build/x64-Debug/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-install.rule
+D:/Geode Mods/Learn/My Mod/out/build/x64-Debug/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-mkdir.rule
+D:/Geode Mods/Learn/My Mod/out/build/x64-Debug/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-patch.rule
+D:/Geode Mods/Learn/My Mod/out/build/x64-Debug/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-test.rule
+D:/Geode Mods/Learn/My Mod/out/build/x64-Debug/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-update.rule

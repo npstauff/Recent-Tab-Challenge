@@ -1,0 +1,3 @@
+D:/Geode Mods/Learn/My Mod/out/build/def/_deps/filesystem-subbuild/CMakeFiles/filesystem-populate.dir
+D:/Geode Mods/Learn/My Mod/out/build/def/_deps/filesystem-subbuild/CMakeFiles/edit_cache.dir
+D:/Geode Mods/Learn/My Mod/out/build/def/_deps/filesystem-subbuild/CMakeFiles/rebuild_cache.dir

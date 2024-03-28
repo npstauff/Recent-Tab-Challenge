@@ -1,0 +1,14 @@
+# Target labels
+ json-populate
+# Source files and their labels
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/json-subbuild/CMakeFiles/json-populate
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/json-subbuild/CMakeFiles/json-populate.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule

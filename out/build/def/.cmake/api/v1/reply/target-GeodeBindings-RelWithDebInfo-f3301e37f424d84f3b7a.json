@@ -1,0 +1,217 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "bindings/GeodeBindings.lib"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"add_compile_definitions",
+			"target_include_directories",
+			"target_compile_features"
+		],
+		"files" : 
+		[
+			"out/build/def/_deps/bindings-src/CMakeLists.txt",
+			"C:/Users/groov/OneDrive/Documents/Geode/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 150,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 268,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 189,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 151,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 261,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 154,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /EHsc /Zi /O2 /Ob1 /DNDEBUG -std:c++20 -MD"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "/utf-8"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "_HAS_ITERATOR_DEBUGGING=0"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "D:/Geode Mods/Learn/My Mod/out/build/def/bindings/bindings"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/groov/OneDrive/Documents/Geode/loader/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/groov/OneDrive/Documents/Geode/loader/include/Geode/cocos/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/groov/OneDrive/Documents/Geode/loader/include/Geode/cocos/extensions"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/groov/OneDrive/Documents/Geode/loader/include/Geode/fmod"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "D:/Geode Mods/Learn/My Mod/out/build/def/_deps/filesystem-src/include"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "D:/Geode Mods/Learn/My Mod/out/build/def/_deps/fmt-src/include"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "D:/Geode Mods/Learn/My Mod/out/build/def/_deps/tuliphook-src/include"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "D:/Geode Mods/Learn/My Mod/out/build/def/_deps/result-src/include"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "D:/Geode Mods/Learn/My Mod/out/build/def/_deps/json-src/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					7,
+					3
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "GeodeFilesystemImpl::@9109f4b3193ce38b07b5"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "fmt::@976f4f0bee90b99ecdb6"
+		}
+	],
+	"id" : "GeodeBindings::@1a45702be1b1dbd02bc1",
+	"name" : "GeodeBindings",
+	"nameOnDisk" : "GeodeBindings.lib",
+	"paths" : 
+	{
+		"build" : "bindings",
+		"source" : "out/build/def/_deps/bindings-src"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/def/bindings/bindings/Geode/GeneratedSource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/def/bindings/bindings/Geode/CodegenData.txt.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

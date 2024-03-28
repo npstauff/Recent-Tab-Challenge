@@ -1,0 +1,11 @@
+prefix=D:/Geode Mods/Learn/My Mod/out/install/def
+exec_prefix=D:/Geode Mods/Learn/My Mod/out/install/def
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: fmt
+Description: A modern formatting library
+Version: 10.1.0
+Libs: -L${libdir} -lfmt
+Cflags: -I${includedir}
+

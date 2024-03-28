@@ -1,0 +1,21 @@
+# ninja log v5
+2	60	7322397840322752	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-mkdir	e3d9466fe0528fef
+2	60	7322397840322752	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-mkdir	e3d9466fe0528fef
+61	3187	7322397871595847	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-download	18e8c7fc9edea309
+61	3187	7322397871595847	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-download	18e8c7fc9edea309
+3187	4430	0	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update	29f2ab2ce2d409a1
+3187	4430	0	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update	29f2ab2ce2d409a1
+4431	4481	7322397884526563	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch	4505afbf992f5051
+4431	4481	7322397884526563	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch	4505afbf992f5051
+4481	4530	7322397885019041	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure	177d42e929951c4e
+4481	4530	7322397885019041	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure	177d42e929951c4e
+4530	4584	7322397885552876	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build	4fc994be3a591ab6
+4530	4584	7322397885552876	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build	4fc994be3a591ab6
+4584	4635	7322397886065375	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install	3a4d06950d4f38a0
+4584	4635	7322397886065375	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install	3a4d06950d4f38a0
+4635	4691	7322397886631549	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test	23be9f0194980447
+4635	4691	7322397886631549	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test	23be9f0194980447
+4691	4764	7322397887354911	CMakeFiles/bindings-populate-complete	2d7a161cb79169fe
+4691	4764	7322397887354911	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-done	2d7a161cb79169fe
+4691	4764	7322397887354911	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/bindings-subbuild/CMakeFiles/bindings-populate-complete	2d7a161cb79169fe
+4691	4764	7322397887354911	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-done	2d7a161cb79169fe

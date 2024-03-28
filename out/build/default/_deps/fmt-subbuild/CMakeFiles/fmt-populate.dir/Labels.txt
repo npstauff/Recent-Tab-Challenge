@@ -1,0 +1,14 @@
+# Target labels
+ fmt-populate
+# Source files and their labels
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/fmt-subbuild/CMakeFiles/fmt-populate
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/fmt-subbuild/CMakeFiles/fmt-populate.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update.rule

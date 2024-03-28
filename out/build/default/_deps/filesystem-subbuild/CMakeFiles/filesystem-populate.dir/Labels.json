@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Geode Mods/Learn/My Mod/out/build/default/_deps/filesystem-subbuild/CMakeFiles/filesystem-populate"
+		},
+		{
+			"file" : "D:/Geode Mods/Learn/My Mod/out/build/default/_deps/filesystem-subbuild/CMakeFiles/filesystem-populate.rule"
+		},
+		{
+			"file" : "D:/Geode Mods/Learn/My Mod/out/build/default/_deps/filesystem-subbuild/CMakeFiles/filesystem-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Geode Mods/Learn/My Mod/out/build/default/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-build.rule"
+		},
+		{
+			"file" : "D:/Geode Mods/Learn/My Mod/out/build/default/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Geode Mods/Learn/My Mod/out/build/default/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-download.rule"
+		},
+		{
+			"file" : "D:/Geode Mods/Learn/My Mod/out/build/default/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-install.rule"
+		},
+		{
+			"file" : "D:/Geode Mods/Learn/My Mod/out/build/default/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Geode Mods/Learn/My Mod/out/build/default/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Geode Mods/Learn/My Mod/out/build/default/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-test.rule"
+		},
+		{
+			"file" : "D:/Geode Mods/Learn/My Mod/out/build/default/_deps/filesystem-subbuild/filesystem-populate-prefix/src/filesystem-populate-stamp/filesystem-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"filesystem-populate"
+		],
+		"name" : "filesystem-populate"
+	}
+}

@@ -1,0 +1,283 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "geode",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						7
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-geode-Debug-cc0641124118d3ca7fe1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "C:/Users/groov/OneDrive/Documents/Geode",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "_deps/json-build",
+					"jsonFile" : "directory-_deps.json-build-Debug-22ac37aaee65079284db.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "out/build/x64-Debug/_deps/json-src"
+				},
+				{
+					"build" : "_deps/fmt-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.fmt-build-Debug-f44bfb7ce3e62c512d83.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "out/build/x64-Debug/_deps/fmt-src",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "_deps/filesystem-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.filesystem-build-Debug-3ed820e357f3d1f10875.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7.2"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "out/build/x64-Debug/_deps/filesystem-src"
+				},
+				{
+					"build" : "_deps/tuliphook-build",
+					"childIndexes" : 
+					[
+						6
+					],
+					"jsonFile" : "directory-_deps.tuliphook-build-Debug-421a994b88ae1103bbe0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 5,
+					"source" : "out/build/x64-Debug/_deps/tuliphook-src"
+				},
+				{
+					"build" : "_deps/result-build",
+					"jsonFile" : "directory-_deps.result-build-Debug-a2db01a6fc157f231bbf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 6,
+					"source" : "out/build/x64-Debug/_deps/result-src"
+				},
+				{
+					"build" : "bindings",
+					"jsonFile" : "directory-bindings-Debug-0a1447698999d2549912.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 7,
+					"source" : "out/build/x64-Debug/_deps/bindings-src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MyMod",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						7
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "geode-sdk",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "mat-json",
+					"parentIndex" : 1
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "FMT",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "ghcfilesystem",
+					"parentIndex" : 1
+				},
+				{
+					"childIndexes" : 
+					[
+						6
+					],
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "TulipHookRoot",
+					"parentIndex" : 1
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "Result",
+					"parentIndex" : 5
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "GeodeBindings",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 7,
+					"id" : "GeodeBindings::@1a45702be1b1dbd02bc1",
+					"jsonFile" : "target-GeodeBindings-Debug-8916e6e83fdc036ca6d4.json",
+					"name" : "GeodeBindings",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GeodeFilesystemImpl::@9109f4b3193ce38b07b5",
+					"jsonFile" : "target-GeodeFilesystemImpl-Debug-e4ae33ef681850a4a0b2.json",
+					"name" : "GeodeFilesystemImpl",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyMod::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyMod-Debug-9b2082b6f269d409da37.json",
+					"name" : "MyMod",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyMod_PACKAGE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyMod_PACKAGE-Debug-1d8a05029c01926a43d1.json",
+					"name" : "MyMod_PACKAGE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "fmt::@976f4f0bee90b99ecdb6",
+					"jsonFile" : "target-fmt-Debug-886ea8d98249b08373ed.json",
+					"name" : "fmt",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Geode Mods/Learn/My Mod/out/build/x64-Debug",
+		"source" : "D:/Geode Mods/Learn/My Mod"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

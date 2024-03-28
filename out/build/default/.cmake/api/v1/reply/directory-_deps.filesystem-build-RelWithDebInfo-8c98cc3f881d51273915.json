@@ -1,0 +1,86 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"out/build/default/_deps/filesystem-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 64,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 66,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 73,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				{
+					"from" : "out/build/default/_deps/filesystem-src/include",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/ghc_filesystem",
+			"exportName" : "ghc_filesystem-targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "ghc_filesystem::@763656b271cb3de3e984",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/filesystem-build/CMakeFiles/Export/af4f0d319e28b03515e733490b4ee531/ghc_filesystem-targets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/ghc_filesystem",
+			"paths" : 
+			[
+				"out/build/default/_deps/filesystem-build/cmake/ghc_filesystem-config.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/filesystem-build",
+		"source" : "out/build/default/_deps/filesystem-src"
+	}
+}

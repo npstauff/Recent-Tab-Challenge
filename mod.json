@@ -1,0 +1,40 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "npstauff.hundred-lives",
+	"name": "Recent Tab Challenge",
+	"developer": "npstauff",
+	"description": "See how many randomly selected recent tab levels you can beat before you run out of lives. You also can use a set number of skips and practice runs to help get you through a level.",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"settings": {
+		"lives": {
+			"name": "Lives",
+			"decription": "The number of lives you have for the challenge",
+			"type": "int",
+			"default": 100,
+			"min": 1,
+			"max": 1000
+		},
+		"practice-runs": {
+			"name": "Practice Runs",
+			"decription": "The number of allowed practice runs you can use",
+			"type": "int",
+			"default": 3,
+			"min": 0,
+			"max": 100
+		},
+		"skips": {
+			"name": "Skips",
+			"decription": "The number of skips you have",
+			"type": "int",
+			"default": 3,
+			"min": 0,
+			"max": 100
+		}
+	}
+}

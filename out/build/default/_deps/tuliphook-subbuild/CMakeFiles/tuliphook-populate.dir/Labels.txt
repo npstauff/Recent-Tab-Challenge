@@ -1,0 +1,14 @@
+# Target labels
+ tuliphook-populate
+# Source files and their labels
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/CMakeFiles/tuliphook-populate
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/CMakeFiles/tuliphook-populate.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/CMakeFiles/tuliphook-populate-complete.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-build.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-configure.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-download.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-install.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-mkdir.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-patch.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-test.rule
+D:/Geode Mods/Learn/My Mod/out/build/default/_deps/tuliphook-subbuild/tuliphook-populate-prefix/src/tuliphook-populate-stamp/tuliphook-populate-update.rule

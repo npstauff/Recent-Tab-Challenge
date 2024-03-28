@@ -1,0 +1,21 @@
+# ninja log v5
+2	70	7322397910394360	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	7637b5fba8fd75e4
+2	70	7322397910394360	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	7637b5fba8fd75e4
+71	3497	7322397944678845	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	9293e8ffca9e182a
+71	3497	7322397944678845	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	9293e8ffca9e182a
+3497	3630	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	3461a4366c2d6b28
+3497	3630	0	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	3461a4366c2d6b28
+3631	3681	7322397946515714	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	9f8a6db74c4b0e06
+3631	3681	7322397946515714	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	9f8a6db74c4b0e06
+3681	3734	7322397947038621	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	6fbdd301a99d418f
+3681	3734	7322397947038621	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	6fbdd301a99d418f
+3734	3785	7322397947553390	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	16e47bae9f761fa1
+3734	3785	7322397947553390	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	16e47bae9f761fa1
+3785	3834	7322397948034754	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	750fbd4487f05579
+3785	3834	7322397948034754	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	750fbd4487f05579
+3834	3886	7322397948560890	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	49811f49337da100
+3834	3886	7322397948560890	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	49811f49337da100
+3886	3961	7322397949292089	CMakeFiles/fmt-populate-complete	4b7a4d81709086a9
+3886	3961	7322397949292089	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	4b7a4d81709086a9
+3886	3961	7322397949292089	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	4b7a4d81709086a9
+3886	3961	7322397949292089	D:/Geode Mods/Learn/My Mod/out/build/def/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	4b7a4d81709086a9
